@@ -20,6 +20,11 @@
 
 # About
 
+# Blueberry
+
+> [!IMPORTANT]
+> This repository has been archived. Development of Kestrel (now renamed as Sable) is still ongoing, but it has moved to a new repository. The new repository is currently private, and we’ll share more information when it becomes open-sourced. In the meantime, please check out https://github.com/sablelabs-de
+
 Dendryte is the official open-source server implementation for Kestrel, an end-to-end communication platform. It's built and maintained by the Kestrel team alongside a growing community of contributors who help shape its development.
 
 # Contributing
